@@ -1,8 +1,5 @@
 .container-fluid {
-        /* margin-left : 0px;  
-    padding-left : 0px;
-    margin-right : 0px;
-    padding-right : 0px;  */
+       
 background: rgb(238,174,202);
 background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(127,221,247,1) 100%);
 }

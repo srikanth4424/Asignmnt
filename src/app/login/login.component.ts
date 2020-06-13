@@ -32,6 +32,6 @@ export class LoginComponent implements OnInit {
   ngOnInit() {
   }
   login(){
-    this.router.navigateByUrl('/viewall');
+    this.router.navigateByUrl('/post');
   }
 }
